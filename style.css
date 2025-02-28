@@ -39,3 +39,13 @@ body{
     background-color:#FFACE4;
     box-shadow: 0 10px 10px rgba(0,0,10,0.5);
 }
+.msg{
+    font-size: 8vmin;
+    color: rgb(217, 15, 106);
+}
+.msgcontainer{
+    height: 12vmin;
+}
+.hide{
+   display: none;
+}
